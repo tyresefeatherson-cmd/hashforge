@@ -3,7 +3,7 @@
   "location": "Soweto, ZA - Optimized for Eskom R3.50/kWh",
   "kaspa": {
     "pool": "stratum+tcp://pool.woolypooly.com:3112",
-    "wallet": "REPLACE_WITH_YOUR_KASPA_WALLET",
+    "wallet": "kaspa:qpj2ews0w4s9q45fmh906wr8z45ur6agva9fjx53n85k5usdmjl5w056j2p7s",
     "miner": "lolMiner 1.88",
     "power_target": "170W"
   },
