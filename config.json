@@ -9,7 +9,7 @@
   },
   "monero": {
     "pool": "pool.supportxmr.com:443",
-    "wallet": "REPLACE_WITH_YOUR_MONERO_WALLET",
+    "wallet": "46STyQSoTP7aKDHyqU9UusJCp9tuNnDSq2VfK1TbVSR59RCwQiJfCXF3FmwP6j12pEibTmFRp1zXe4p8Hmi1Uq3cHC3XaXs",
     "miner": "XMRig 6.22",
     "power_target": "65W"
   },
