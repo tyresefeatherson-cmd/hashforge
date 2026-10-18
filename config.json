@@ -1,0 +1,17 @@
+{
+  "project": "HashForge v1.0",
+  "location": "Soweto, ZA - Optimized for Eskom R3.50/kWh",
+  "kaspa": {
+    "pool": "stratum+tcp://pool.woolypooly.com:3112",
+    "wallet": "REPLACE_WITH_YOUR_KASPA_WALLET",
+    "miner": "lolMiner 1.88",
+    "power_target": "170W"
+  },
+  "monero": {
+    "pool": "pool.supportxmr.com:443",
+    "wallet": "REPLACE_WITH_YOUR_MONERO_WALLET",
+    "miner": "XMRig 6.22",
+    "power_target": "65W"
+  },
+  "eskom_rate": 3.50
+}
